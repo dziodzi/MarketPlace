@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlace.DAL", "MarketPlace.DAL\MarketPlace.DAL.csproj", "{D5FC7348-5BEE-44A7-B140-89EFF4842AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlace.BLL", "MarketPlace.BLL\MarketPlace.BLL.csproj", "{79184F35-ECA5-4A61-9D33-47A26BD65779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketPlace.Presentation", "MarketPlace.Presentation\MarketPlace.Presentation.csproj", "{347AA700-76AE-4F76-AFA2-70D1DA3E2421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FC7348-5BEE-44A7-B140-89EFF4842AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FC7348-5BEE-44A7-B140-89EFF4842AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FC7348-5BEE-44A7-B140-89EFF4842AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FC7348-5BEE-44A7-B140-89EFF4842AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79184F35-ECA5-4A61-9D33-47A26BD65779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79184F35-ECA5-4A61-9D33-47A26BD65779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79184F35-ECA5-4A61-9D33-47A26BD65779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79184F35-ECA5-4A61-9D33-47A26BD65779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347AA700-76AE-4F76-AFA2-70D1DA3E2421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347AA700-76AE-4F76-AFA2-70D1DA3E2421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347AA700-76AE-4F76-AFA2-70D1DA3E2421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347AA700-76AE-4F76-AFA2-70D1DA3E2421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
